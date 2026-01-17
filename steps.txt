@@ -1,0 +1,5 @@
+Steps
+1. Create virtual environment: python -m venv .venv
+2. Activate virutal environment: .venv\Scripts\Activate.ps1
+3. Install required packages: pip install -r requirements.txt
+4. 
