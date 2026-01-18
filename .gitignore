@@ -1,0 +1,13 @@
+# Ignore test files
+test*.py
+test.py
+test_v2.py
+test_v3.py
+
+# Ignore virtual environment
+.venv/
+
+# Optionally ignore other common files
+*.pyc
+__pycache__/
+*.log
